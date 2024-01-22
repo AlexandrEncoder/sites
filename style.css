@@ -1,0 +1,39 @@
+.logo{
+    height: 13vh;
+    width: 98vw;
+    background: skyblue;
+    font-size: 29px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 30px 10px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(228, 145, 179);
+}
+.lg{
+    position: absolute;
+    top: 30px;
+    left: 14px;
+}
+
+
+#receita{
+    text-align: center;
+}
+#nome_rac{
+    color: orange;
+    font-size: 45px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: black;
+}
+#igrediente{
+    font-size: 38px;
+    font-family:fantasy;
+}
+#etapas{
+    font-size: 33px;
+    font-family:fantasy;
+}
+#conteudo{
+    font-size: 28px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
